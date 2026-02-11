@@ -1,0 +1,3 @@
+[submodule "Flask-Made-Easy"]
+	path = Flask-Made-Easy
+	url = git@github.com:Astral-Viscount/Flask-Made-Easy.git
